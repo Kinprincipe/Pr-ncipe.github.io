@@ -1,2 +1,2 @@
-# Pr-ncipe.github.io
+# Principe.github.io
 Primer proyecto en certus
